@@ -1,7 +1,7 @@
 const Cardsdata = [
     {
         id: 1,
-        dish: "punjabi",
+        dish: "⭐️punjabi",
         imgdata: "https://b.zmtcdn.com/data/pictures/9/18857339/8f53919f1175c08cf0f0371b73704f9b_o2_featured_v2.jpg?output-format=webp",
         address: "North Indian, Biryani, Mughlai",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -13,7 +13,7 @@ const Cardsdata = [
     },
     {
         id: 2,
-        dish: "Jugaadi Adda vadapav",
+        dish: "⭐️vadapav",
         imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/19295245/089cbcf1d3307542c72f77272556b28b_o2_featured_v2.jpg?output-format=webp",
         address: "Street Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -25,7 +25,7 @@ const Cardsdata = [
     },
     {
         id: 3,
-        dish: "La Milano Pizza",
+        dish: "⭐️Pizza",
         imgdata: "https://b.zmtcdn.com/data/pictures/chains/1/19708611/10f90d4a69678d98662514d173b29665_o2_featured_v2.jpg",
         address: "Pizza, Fast Food, Pasta",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -37,7 +37,7 @@ const Cardsdata = [
     },
     {
         id: 4,
-        dish: "Momoman Momos",
+        dish: "⭐️Momos",
         imgdata: "https://b.zmtcdn.com/data/pictures/chains/1/113401/59f29399060caefcc575d59dc9402ce8_o2_featured_v2.jpg",
         address: "Momos",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -49,7 +49,7 @@ const Cardsdata = [
     },
     {
         id: 5,
-        dish: "Jassi De Parathe",
+        dish: "⭐️Parathe",
         imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/110225/3978e28854b7496dbef9496546734811_o2_featured_v2.jpg",
         address: "North Indian",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -61,9 +61,9 @@ const Cardsdata = [
     },
     {
         id: 6,
-        dish: "Spring Rolls",
+        dish: "⭐️Spring Rolls",
         imgdata: "https://b.zmtcdn.com/data/pictures/5/113895/3c06f6fbb8f667a2537dfdb6f060dc8b_o2_featured_v2.jpg",
-        address: "Wraps FastFood, Chines",
+        address: "Wraps FastFood, Chineese",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
         somedata: " 1100 + order placed from here recently",
         price: 100,
@@ -73,7 +73,7 @@ const Cardsdata = [
     },
     {
         id: 7,
-        dish: "Hocco Eatery",
+        dish: "⭐️Hocco",
         imgdata: "https://b.zmtcdn.com/data/pictures/chains/5/110155/811c01a5430d50d3260f77917da99e12_o2_featured_v2.jpg",
         address: "North Indian, Fast Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -85,7 +85,7 @@ const Cardsdata = [
     },
     {
         id: 8,
-        dish: "Chai Wai",
+        dish: "⭐️Chai",
         imgdata: "https://b.zmtcdn.com/data/pictures/3/18514413/0a17b72e9fec52a3ca736f4c2ea3646f_o2_featured_v2.jpg",
         address: "Tea, Coffee, Shake, Beverages",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",
@@ -97,7 +97,7 @@ const Cardsdata = [
     },
     {
         id: 9,
-        dish: "HL Frankie",
+        dish: "⭐️Frankie",
         imgdata: "https://b.zmtcdn.com/data/pictures/7/19639627/94c0a4cf15c02d3982d154e2c5dd8cbb_o2_featured_v2.jpg",
         address: "Burger, Sandwich, Fast Food",
         delimg: "https://b.zmtcdn.com/data/o2_assets/0b07ef18234c6fdf9365ad1c274ae0631612687510.png?output-format=webp",

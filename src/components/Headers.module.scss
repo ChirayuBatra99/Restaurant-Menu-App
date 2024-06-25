@@ -2,10 +2,19 @@
     background-color: black;
     color: white;
     display: flex;
+    justify-content: space-between;
     flex-direction: row;
     align-items: center;
 }
 
 .textHeader{
-    width: 85%;
+    margin-left: 5%;
+    width: 10%;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.buttonCart{
+    cursor: pointer;
 }
